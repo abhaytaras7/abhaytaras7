@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay-h" alt="abhay-h" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abzap3" target="blank"><img src="https://img.shields.io/twitter/follow/abzap3?logo=twitter&style=for-the-badge" alt="abzap3" /></a> </p>
 
 - 💬 Ask me about **linux , networking , Info-security**
