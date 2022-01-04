@@ -24,7 +24,6 @@
 
 ![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&locale=en" alt="abhay-h" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay-h&" alt="abhay-h" /></p>
  
