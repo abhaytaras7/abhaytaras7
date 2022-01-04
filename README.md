@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABHAY TARAS</h1>
-<h2 align="center">A passionate Penetration Tester and </h2>
+<h2 align="center">A passionate Penetration Tester</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
 
