@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/abzap3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abzap3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhay taras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay taras" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:15792553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15792553" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/whistle blower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whistle blower" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhayyt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayyt17" height="30" width="40" /></a>
 <a href="https://discord.gg/sudoWhistle#9076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudoWhistle#9076" height="30" width="40" /></a>
 </p>
