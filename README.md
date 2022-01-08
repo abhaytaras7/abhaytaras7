@@ -28,4 +28,8 @@
 
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight)](https://github.com/abhay-h/github-readme-stats)
 
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whistel7ab)](https://github.com/anuraghazra/github-readme-stats)
+
  
