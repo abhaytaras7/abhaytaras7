@@ -30,6 +30,6 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whistel7ab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whistel7ab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
