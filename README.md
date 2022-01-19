@@ -29,4 +29,4 @@
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/abhay-h/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&langs_count=9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
