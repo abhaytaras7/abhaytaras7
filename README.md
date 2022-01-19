@@ -26,6 +26,7 @@
 
  [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&layout=compact&theme=tokyonight)](https://github.com/abhay-h/github-readme-stats)
 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
 
 
  
