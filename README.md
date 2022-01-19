@@ -26,5 +26,5 @@
  
 ![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
 
-[![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight&&layout=compact=10)](https://github.com/abhay-h/github-readme-stats)
+[![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight&&layout=compact=6)](https://github.com/abhay-h/github-readme-stats)
 
