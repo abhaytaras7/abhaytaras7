@@ -29,4 +29,4 @@
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight&layout=compact=10)](https://github.com/abhay-h/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhay-h&theme=radical&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhay-h&theme=radicel&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
