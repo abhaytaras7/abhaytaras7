@@ -28,11 +28,3 @@
 
 [![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&layout=compact&theme=tokyonight&langs_count=30)](https://github.com/abhay-h/github-readme-stats)
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!-- You will not be able to see this text. -->
