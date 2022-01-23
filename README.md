@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm ABHAY TARAS <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="31x" alt="hi"></h1>
 <h2 align="center">A passionate Penetration Tester</h2>
 <!--- --->
-
+<!--- --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abzap3" target="blank"><img src="https://img.shields.io/twitter/follow/abzap3?logo=twitter&style=for-the-badge" alt="abzap3" /></a> </p>
@@ -24,8 +24,6 @@
  <p align="left"> <a href="https://github.com/abhay-h/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay-h&theme=dracula" alt="abhay-h" /></a> </p>
  
 ![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
-
-
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
 
