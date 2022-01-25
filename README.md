@@ -25,8 +25,8 @@
  
 ![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
 
-  <a href="https://github.com/abhay-h/github-readme-stats"><img alt="Abhay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&langs_count=8&count_private=true&layout=compact&theme=tokyonight&bg_color=0D1117" /></a>
+  <a href="https://github.com/abhay-h/github-readme-stats"><img alt="Abhay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay-h&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>
 
  
