@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm ABHAY TARAS <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="31x" alt="hi"></h1>
 <h2 align="center">A passionate Penetration Tester</h2>
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
 
@@ -21,8 +17,6 @@
 <a href="https://geeksforgeeks.org/user/abhayyt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayyt17" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/sudoWhistle#9076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudoWhistle#9076" height="30" width="40" /></a>
 </p>
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
 <h3 align="left">Languages and Tools:</h3>
