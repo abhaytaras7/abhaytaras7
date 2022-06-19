@@ -7,12 +7,13 @@
  
  
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Professional;|Penetration+Tester|%20DevSecOps%20|%20Network+Analyst%20Enthusiastic;Always%20learning%20new%20stuff&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Professional;Web+Penetration+Tester;Open%20Source%20|%20DevSecOps%20|%20Network+Analyst%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
 </p>
 
 
+
  
-- 💬 Ask me about **Linux , Networking , Cyber-Security**
+-- 💬 Ask me about **Linux , Networking , Cyber-Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
