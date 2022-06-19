@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
-<h2 align="center">A passionate Penetration Tester and Cyber Security Professional </h2>
+
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
  
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A Cyber Security Professional;Penetration Tester;Open%20Source%20|%20DevSecOps%20|%20Web+Network Analyst %20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
 </p>
 
  
