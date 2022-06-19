@@ -6,9 +6,9 @@
  
  
  
- <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A04CF7&lines=Cyber+Security+Professional;Penetration+Tester;DevSec+Ops+Specialist;Network+Security)](https://git.io/typing-svg)
-</p>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A04CF7&lines=Cyber+Security+Professional;Penetration+Tester;DevSec+Ops+Specialist;Network+Security)](https://git.io/typing-svg)
+ 
 
 
  
