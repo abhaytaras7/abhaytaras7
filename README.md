@@ -7,7 +7,7 @@
  
  
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Professional;+Penetration+Tester;WebSec+Professional|%20DevSecOps%20|%20Network+Analyst%20Enthusiastic;Always%20learning%20new%20things&center=true&width=580&height=45"></a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A04CF7&lines=Cyber+Security+Professional;Penetration+Tester;DevSec+Ops+Specialist;Network+Security)](https://git.io/typing-svg)
 </p>
 
 
