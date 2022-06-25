@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="30"> 
+<h1 align="center">Hello, I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst&center=true" alt="Typing SVG">
+</p>
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
