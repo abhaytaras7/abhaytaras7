@@ -1,13 +1,9 @@
 <h1 align="center">Hello, I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="30"> 
- 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst)](https://git.io/typing-svg)
- 
 
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com? font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst)](https://git.io/typing-svg)
 
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-h&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-h" /> </p>
  
@@ -33,6 +29,5 @@
 ![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
 <br>
 <br>
- 
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
