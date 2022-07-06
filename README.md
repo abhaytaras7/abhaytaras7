@@ -25,8 +25,18 @@
 <br>
 <br>
 
-![Abhay-h GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight)
-<br>
-<br>
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay-h&show_icons=true&theme=tokyonight" />
+  
+
+</p>
+<br>
+ 
+
+<p align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay-h&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+</p>
+ 
