@@ -17,7 +17,7 @@
 <a href="https://geeksforgeeks.org/user/abhayyt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayyt17" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/sudoWhistle#9076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudoWhistle#9076" height="30" width="40" /></a>
 </p>
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
+<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 <br>
 <br>
  
@@ -40,9 +40,8 @@
 </p>
 <br>
  
-
 <p align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaytaras7&langs_count=9&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaytaras7&langs_count=10&show_icons=true&theme=tokyonight&locale=en&layout=compact"/>
 </p>
  
