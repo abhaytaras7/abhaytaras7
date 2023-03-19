@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm ABHAY TARAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSecOps+Specialist;Malware+Analyst;Exploit+Developer&center=true" alt="Typing SVG">
 </p>
 <!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
