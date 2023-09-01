@@ -7,18 +7,6 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/whistle_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abzap3" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhay-taras-0029041b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay taras" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15792553/whistle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15792553" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/WhistleBlower_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whistle blower" height="30" width="40" /></a>
-<a href="https://geeksforgeeks.org/user/abhayyt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhayyt17" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/sudoWhistle#9076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudoWhistle#9076" height="30" width="40" /></a>
-</p>
-<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
-<br>
-<br>
  
 
 <h3 align="center">Languages and Tools:</h3>
